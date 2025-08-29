@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Marcin and I am focused at backend development with a use of Java and Spring Boot.
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,git,docker,kubernetes,postgres,azure,postman,githubactions,idea)](https://skillicons.dev)
