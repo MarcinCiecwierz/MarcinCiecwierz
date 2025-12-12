@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Marcin and I am focused at backend development with a use of Java and Spring Boot.
+
+You can checkout my portfolio page 😄 [https://marcinciecwierz.github.io/portfolio](https://marcinciecwierz.github.io/portfolio)
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,git,docker,kubernetes,postgres,azure,postman,githubactions,idea)](https://skillicons.dev)
